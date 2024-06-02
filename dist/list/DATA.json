@@ -1,0 +1,52 @@
+{
+  "restaurants": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Sate Khas Senayan",
+      "description": "Sate Khas Senayan adalah restoran yang menghidangkan berbagai macam sate khas Indonesia dengan cita rasa yang autentik. Terletak di jantung kota Jakarta, restoran ini menjadi destinasi favorit pecinta kuliner untuk menikmati sate yang lezat.",
+      "pictureId": "https://assets-pergikuliner.com/ufTZ2aLyzZRgZ27xDqWkE7Nx9Sg=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/1134765/picture-1541143710.JPG",
+      "city": "Jakarta",
+      "rating": 4.6
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Bebek Bengil",
+      "description": "Bebek Bengil adalah restoran legendaris yang terkenal dengan hidangan bebek goreng krispi yang nikmat. Berlokasi di Ubud, Bali, restoran ini menawarkan pengalaman makan yang menyenangkan dengan pemandangan alam yang memukau.",
+      "pictureId": "https://i2.wp.com/blog.tripcetera.com/id/wp-content/uploads/2019/08/1024px-Nasi_campur_bebek_2.jpg",
+      "city": "Bali",
+      "rating": 4.8
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Soto Ayam Lamongan",
+      "description": "Soto Ayam Lamongan adalah restoran yang spesialisasi dalam hidangan soto ayam khas Lamongan. Terletak di Malang, restoran ini telah menjadi favorit bagi penggemar soto ayam yang gurih dan lezat.",
+      "pictureId": "https://3.bp.blogspot.com/-kxGYBUIYqCA/UyUR-9wDhJI/AAAAAAAAAWw/ewpTSO8E8H4/s1600/soto-ayam-lamongan-malang-oro-oro-dowo.jpg",
+      "city": "Malang",
+      "rating": 4.7
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Gudeg Yu Djum",
+      "description": "Gudeg Yu Djum adalah restoran yang terkenal dengan hidangan gudeg khas Yogyakarta yang lezat dan autentik. Terletak di Yogyakarta, restoran ini menyajikan gudeg dengan cita rasa yang otentik dan bumbu yang khas.",
+      "pictureId": "https://www.wsrentaljogja.com/wp-content/uploads/2022/03/44827297_1965151683779312_6617457597585618133_n.jpg",
+      "city": "Yogyakarta",
+      "rating": 4.5
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "Bakmi GM",
+      "description": "Bakmi GM adalah restoran yang terkenal dengan hidangan bakmi yang lezat dan beragam. Dikenal sebagai salah satu restoran bakmi terbaik di Jakarta, Bakmi GM menyajikan bakmi dengan berbagai pilihan topping dan kuah yang lezat.",
+      "pictureId": "https://images.tokopedia.net/img/KRMmCm/2022/10/20/dcf7ae1a-38e1-458d-b533-bfb5a2b157d1.jpg",
+      "city": "Jakarta",
+      "rating": 4.6
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Ayam Goreng Mbok Berek",
+      "description": "Ayam Goreng Mbok Berek adalah restoran yang terkenal dengan hidangan ayam goreng krispi yang nikmat dan bumbu yang meresap sempurna. Terletak di Jogja, restoran ini menjadi destinasi favorit pecinta ayam goreng di kota ini.",
+      "pictureId": "https://www.bestmeat.id/images/blog/60725-1.gif",
+      "city": "Yogyakarta",
+      "rating": 4.4
+    }
+  ]
+}
